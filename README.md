@@ -1,2 +1,2 @@
-# Confess to crush web using react
+# Confess to crush website using react
 **Link** : https://confesstocrush.me/
